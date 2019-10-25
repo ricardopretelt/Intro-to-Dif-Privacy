@@ -14,5 +14,7 @@ This is a notebook for the introduction to differential privacy course from [uda
 The Python libraries used are:
 * Matplotlib
 * Numpy
+* Pytorch
 
+The framework developed from [openmined](https://www.openmined.org/) pysyft is also used.
 
